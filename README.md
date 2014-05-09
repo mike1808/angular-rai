@@ -16,7 +16,7 @@ $ bower install rai
 ## Usage
 
 ```javascript
-app.controller('MyCtrl, function($rAI) {
+app.controller('MyCtrl', function($rAI) {
   var delay = 50,
       count = 10,
       skipApply = false;
