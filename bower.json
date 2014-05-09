@@ -1,0 +1,23 @@
+{
+  "name": "rai",
+  "version": "0.1.0",
+  "authors": [
+    "Michael Manukyan <michael.manukyan@simplytech.co>"
+  ],
+  "description": "Angular $interval implementation with requestAnimationFrame",
+  "main": "src/rai.js",
+  "keywords": [
+    "angular",
+    "interval",
+    "requestAnimationFrame",
+    "requestAnimationInterval"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
